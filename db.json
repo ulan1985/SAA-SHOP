@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "type": "notebook",
+      "title": "Ноутбук HP",
+      "description": "14 S-CF2050 Intel Celeron N4020 1.10GHz 4GB DDR4 64GB SSD Intel UHD Graphics 600 14\" WiFi ac BT 4.2 WC Win10 серебристый",
+      "price": "25300",
+      "author": "HP group",
+      "discount": "5",
+      "phone": "0779117885",
+      "category": "SSD",
+      "image": "https://systema.kg/138681-large_default/notebook-hp-14-s-cf2050-intel-celeron-n4020-110ghz-4gb-ddr4-64gb-ssd-intel-uhd-graphics-600-14-wifi-ac-bt-42-wc-win10.jpg",
+      "countInStock": "5",
+      "storeAddress": "S.A.A. shop",
+      "id": 1
+    },
+    {
+      "title": "Ноутбук Lenovo ",
+      "description": "V145 Celeron DC N4020 1.1-2.8GHz,4GB,500GB,14\"HD,RUS,DOS HDMI, IRON GRAY",
+      "price": "26400 сом",
+      "author": " Lenovo group",
+      "discount": "10%",
+      "phone": "0779 1178885",
+      "category": "500 GB",
+      "image": "https://softech.kg/image/cache/b2972a22653f0cc53dad3c4b9397ab76.jpg",
+      "countInStock": "25",
+      "storeAddress": "S.A.A. shop",
+      "id": 2
+    },
+    {
+      "title": "Ноутбук ASUS",
+      "description": "X543B AMD A4-9125 4GB DDR4 500GB HDD 15.6 Full HD AMD R3 Wi-Fi Bluetooth Webcam GREY Eng-Rus",
+      "price": "29450 сом",
+      "author": "ASUS group",
+      "discount": "10%",
+      "phone": "0779 117885",
+      "category": "500 GB",
+      "image": "https://ultra.kg/upload/resize_cache/iblock/132/220_200_1/132118b3e0b7e2df6c0ebc47312a67ba.jpg",
+      "countInStock": "22",
+      "storeAddress": "S.A.A. shop",
+      "id": 3
+    },
+    {
+      "title": " Ноутбек LG Gram",
+      "description": "Gram 17 оснащен процессором Intel Core i7-8565U (1,8-4,6 ГГц), 16 ГБ оперативной памяти и SSD объемом 256 ГБ.",
+      "price": "34 520 сом",
+      "author": "LG group",
+      "discount": "10%",
+      "phone": "0779 117885",
+      "category": "500 GB",
+      "image": "https://www.notebookcheck-ru.com/uploads/tx_nbc2/4zu3_LG_Gram_17_17Z90N.jpg",
+      "countInStock": "25",
+      "storeAddress": "S.A.A. shop",
+      "id": 4
+    },
+    {
+      "title": "Ноутбук  APPLE",
+      "description": "MACBOOK AIR 13″ I5 1.8/8GB/128SSD SILVER (MQD32)",
+      "price": "70 200 сом",
+      "author": "APPLE group",
+      "discount": "10%",
+      "phone": "0779 117885",
+      "category": "500 GB",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_62_1075_6.jpg",
+      "countInStock": "15",
+      "storeAddress": "S.A.A. shop",
+      "id": 5
+    },
+    {
+      "title": "Ноутбук  APPLE MACBOOK",
+      "description": "MACBOOK PRO 13 2020 SPACE GREY (MWP42)",
+      "price": "180 200 сом",
+      "author": "APPLE ",
+      "discount": "10 %",
+      "phone": "0779 117885",
+      "category": "500  GB",
+      "image": "https://www.ixbt.com/img/r30/00/02/21/94/IMG0063.jpg",
+      "countInStock": "20",
+      "storeAddress": "S.A.A. shop",
+      "id": 6
+    },
+    {
+      "title": "Ноутбук Sony",
+      "description": "Ноутбук Sony Vaio VPC-YB2L1R AMD Fusion E-350 2GB DDR3 320GB HDD серебристый",
+      "price": "19800 сом",
+      "author": "Sony group",
+      "discount": "10%",
+      "phone": "0779117885",
+      "category": "500GB",
+      "image": "https://www.kivano.kg/images/product/68352/1622355077_67139000.png",
+      "countInStock": "15",
+      "storeAddress": "S.A.A. shop",
+      "id": 7
+    },
+    {
+      "title": " Ноутбук Lenovo",
+      "description": "Ноутбук Lenovo Ideapad 3 15IGL05 Intel Celeron N4120 4GB DDR4 128GB SSD DOS Platinum Grey",
+      "price": "32500 сом",
+      "author": "Lenovo group",
+      "discount": "10%",
+      "phone": "0779117885",
+      "category": " 500 Gb",
+      "image": "https://www.kivano.kg/images/product/92417/1620920685_99540200.jpg",
+      "countInStock": "8",
+      "storeAddress": "S.A.A. shop",
+      "id": 8
+    },
+    {
+      "title": "Ноутбук MSI",
+      "description": "Ноутбук MSI GF63 Thin 9SCSR-898XRU Intel Core i5-9300H 8GB DDR4 1000GB HDD Nvidia GTX 1650Ti 4GB FHD DOS черный",
+      "price": "72500 сом",
+      "author": "MSI Group",
+      "discount": "10%",
+      "phone": "0779117885",
+      "category": "500 Gb",
+      "image": "https://www.kivano.kg/images/product/90887/1617961228_50494600.jpg",
+      "countInStock": "5",
+      "storeAddress": "S.A.A. shop",
+      "id": 9
+    }
+  ]
+}
